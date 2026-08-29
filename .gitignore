@@ -1,0 +1,5 @@
+# 本地工具生成的索引目录（不要提交）
+.codegraph/
+
+# VS Code 用户级设置（保留 .code-workspace 以共享）
+.vscode/
